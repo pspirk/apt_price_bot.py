@@ -2,7 +2,7 @@
 
 Clone the repository:
 
-    git clone
+    git clone https://github.com/pspirk/apt_price_bot.py.git
 
 
 Install library yang dibutuhkan:
